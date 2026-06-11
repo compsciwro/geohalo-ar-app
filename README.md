@@ -1,7 +1,7 @@
 # AR Cosmic Quest
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/<img width="2172" height="724" alt="banner" src="https://github.com/user-attachments/assets/67b934e2-81db-4957-be5c-a9762280e3bd" />" alt="AR Cosmic Quest Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/67b934e2-81db-4957-be5c-a9762280e3bd" alt="AR Cosmic Quest Banner" width="100%">
 </p>
 
 **AR Cosmic Quest** is a Unity-based AR mobile application that delivers a futuristic, neon-styled augmented reality experience.  
